@@ -1,0 +1,2 @@
+# pics
+store blog images
